@@ -1,4 +1,5 @@
 <<<<<<< HEAD:test1/sample1
+<<<<<<< HEAD:test1/sample1
 test
 test
 test
@@ -6,3 +7,6 @@ test
 =======
 test1
 >>>>>>> origin/master:test1/sample1
+=======
+test1
+>>>>>>> bef99fa846e9ece287e427e08e276d88c72ae5dd:test1/sample1
