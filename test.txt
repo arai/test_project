@@ -1,3 +1,8 @@
 test
 
 
+<<<<<<< HEAD:test.txt
+=======
+test
+test
+>>>>>>> c90947d4923315018194e695787409d57100a0e7:test.txt
